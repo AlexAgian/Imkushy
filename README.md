@@ -7,6 +7,7 @@ A 17-year-old software developer with early expertise in Python, Lua, HTML, CSS,
 
 ![Lua](https://img.shields.io/badge/-Lua-2C2C54?style=for-the-badge&logo=lua&logoColor=white)
 
+(couldn't find other badges lmao)
 ---
 
 ## 📊 GitHub Stats
